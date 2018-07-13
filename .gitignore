@@ -1,24 +1,24 @@
 ######################
 # Project Specific
 ######################
-/src/main/webapp/content/css/main.css
-/target/www/**
-/src/test/javascript/coverage/
-/src/test/javascript/PhantomJS*/
+# /src/main/webapp/content/css/main.css
+# /target/www/**
+# /src/test/javascript/coverage/
+# /src/test/javascript/PhantomJS*/
 
 ######################
 # Node
 ######################
-/node/
-node_tmp/
-node_modules/
-npm-debug.log.*
-/.awcache/*
+# /node/
+# node_tmp/
+# node_modules/
+# npm-debug.log.*
+# /.awcache/*
 
 ######################
 # SASS
 ######################
-.sass-cache/
+# .sass-cache/
 
 ######################
 # Eclipse
@@ -26,13 +26,13 @@ npm-debug.log.*
 *.pydevproject
 .project
 .metadata
-tmp/
-tmp/**/*
+# tmp/
+# tmp/**/*
 *.tmp
 *.bak
 *.swp
 *~.nib
-local.properties
+# local.properties
 .classpath
 .settings/
 .loadpath
@@ -70,8 +70,8 @@ classes/
 ######################
 # Maven
 ######################
-/log/
-/target/
+# /log/
+# /target/
 
 ######################
 # Gradle
